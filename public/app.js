@@ -14,6 +14,7 @@ $(document).ready(function(){
 var skipToMyLou = {
 
   events: function() {
+
   $(".mainPage").toggle();
   /* USER NAME AND PASSWORD */
   $('.signIn').on("click", function(event){
