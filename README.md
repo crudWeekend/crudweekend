@@ -1,4 +1,4 @@
-# crudweekend
+# Skip To The Loo 
 
 The Iron Yard - June 2016
 
@@ -11,3 +11,5 @@ The Back End Crew is using the Spark Web framework, H2 Databases, and SQL.
 The Front End Crew is using Google Maps API, Node.js and jquery;
 
 Requiered to build a C.R.U.D. app using a REST architecture, must have a functional user login.
+
+Learned that you can't easily change the name of a Repo after it's been created...
